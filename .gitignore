@@ -56,3 +56,5 @@ jspm_packages
 *.iml
 out
 gen
+yarn.lock
+bundle.js
