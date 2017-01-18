@@ -9,8 +9,14 @@
   "author": "Amanul Chowdhury",
   "license": "ISC",
   "dependencies": {
-    "react": "^15.4.2",
-    "react-dom": "^15.4.2"
+    "axios": "0.8.0",
+    "firebase": "2.3.2",
+    "history": "1.13.1",
+    "re-base": "1.5.1",
+    "react": "0.14.3",
+    "react-dom": "0.14.3",
+    "react-router": "1.0.1",
+    "reactfire": "0.5.1"
   },
   "devDependencies": {
     "babel-core": "^6.21.0",
